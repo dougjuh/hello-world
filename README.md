@@ -3,4 +3,6 @@
 # learning Git because I want to and need to
 Wish I had learned this years ago for my personal projects!
 
-Blah blah and more words can be added
+More words can be added or even removed.
+
+SO what happens to changes made after the pull request?
